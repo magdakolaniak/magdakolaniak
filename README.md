@@ -13,15 +13,15 @@
 
 - 🔭 I’m currently **working on my capstone project "WhatWine?"**
 
-- 🌱 Willing to learn other proggr
+- 🌱 Willing to learn other programming languages
 
-- 💬 Ask me about **customising VSCode Themes, keyboard shortcuts and settings to improve your efficiency.**
+- 💬 Ask me about 
 
-- 📫 You can follow me on :  [![Twitter][1.2]][1]
+- 📫 You can follow me on : 
 
 - 📄 Know about my experiences or reach me on :  LinkedIN
 
-- ⚡ Fun fact **I'm verified on Twitter!**
+
 <div size='20px'> My name is Magdalena. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
   <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
