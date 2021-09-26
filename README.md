@@ -15,7 +15,7 @@
 
 - 🌱 Willing to learn **other programming languages**
 
-- 📫 You can check now my Portofilio  <a href="https://magda-kolaniak.vercel.app"> <img width='18px' src="https://res.cloudinary.com/dii3cculv/image/upload/v1632692314/biography_2_ecq74s.png"/> </a>
+- 📫 You can check now my Portofilio  <a href="https://magda-kolaniak.vercel.app"> <img width='38px' src="https://res.cloudinary.com/dii3cculv/image/upload/v1632692314/biography_2_ecq74s.png"/> </a>
 
 - 📄 Know about my experiences or reach me on ***LinkedIn***  <a href = 'https://www.linkedin.com/in/magda-kolaniak'> <img width = '18px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
