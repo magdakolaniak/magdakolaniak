@@ -11,7 +11,7 @@
 
 - 🍷 Former Sommelier with huge passion to  🌎 🛳 & 🍴 🍷
 
-- 🔭 I’m currently **working on my capstone project "WhatWine?"**
+- 🔭 I’m currently **working on my capstone project "WhatWine?"**  <a color="white" href="https://what-wine.vercel.app"> CHECK </a>
 
 - 🌱 Willing to learn **other programming languages**
 
