@@ -17,7 +17,7 @@
 
 - 📫 You can check now my Portofilio  <a href="https://magda-kolaniak.vercel.app"> <img width='38px' marginLeft = '20px' marginTop='20px' src="https://res.cloudinary.com/dii3cculv/image/upload/v1632692314/biography_2_ecq74s.png"/> </a>
 
-- 📄 Know about my experiences or reach me on ***LinkedIn***  <a href = 'https://www.linkedin.com/in/magda-kolaniak'> <img paddingTop='25px' width = '22px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+- 📄 Know about my experiences or reach me on ***LinkedIn***  <a href = 'https://www.linkedin.com/in/magda-kolaniak'> <img paddingTop='25px' width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
 
 
