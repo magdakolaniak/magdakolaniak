@@ -11,13 +11,13 @@
 
 - 🍷 Former Sommelier with huge passion to  🌎 🛳 & 🍴 🍷
 
-- 🔭 I’m currently **working on my capstone project "WhatWine?"**  <a color="white" href="https://what-wine.vercel.app"> <img width = '38px' src='https://res.cloudinary.com/dii3cculv/image/upload/v1632692921/coding_2_iwope8.png'/></a>
+- 🔭 I’m currently **working on my capstone project "WhatWine?"**  <a color="white" href="https://what-wine.vercel.app"> <img width = '22px' src='https://res.cloudinary.com/dii3cculv/image/upload/v1632692921/coding_2_iwope8.png'/></a>
 
 - 🌱 Willing to learn **other programming languages**
 
-- 📫 You can check now my Portofilio  <a href="https://magda-kolaniak.vercel.app"> <img width='38px' marginLeft = '20px' marginTop='20px' src="https://res.cloudinary.com/dii3cculv/image/upload/v1632692314/biography_2_ecq74s.png"/> </a>
+- 📫 You can check now my Portofilio  <a href="https://magda-kolaniak.vercel.app"> <img width='22px' marginLeft = '20px' marginTop='20px' src="https://res.cloudinary.com/dii3cculv/image/upload/v1632692314/biography_2_ecq74s.png"/> </a>
 
-- 📄 Know about my experiences or reach me on ***LinkedIn***  <a href = 'https://www.linkedin.com/in/magda-kolaniak'> <img paddingTop='25px' width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+- 📄 Know about my experiences or reach me on ***LinkedIn***  <a href = 'https://www.linkedin.com/in/magda-kolaniak'> <img paddingTop='25px' width = '22px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
 
 
@@ -41,8 +41,6 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/magda-kolaniak'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.github.com/magdakolaniak'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
 
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
@@ -50,8 +48,8 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=magdakolaniak&count_private=true&show_icons=true&theme=dark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=magdakolaniak&count_private=true&show_icons=true&theme=light" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magdakolaniak&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magdakolaniak&theme=light" />
 </a>
